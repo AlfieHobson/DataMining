@@ -1,0 +1,2 @@
+jupyter notebook    - CMD
+pip install pandas --user
